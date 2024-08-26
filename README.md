@@ -72,7 +72,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Questions
 
-If you have any questions about the project, please open an issue or contact the author directly at your-email@example.com.
+If you have any questions about the project, please open an issue or contact the author directly at esoriano110@gmail.com
 
 ---
 
