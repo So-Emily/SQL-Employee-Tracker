@@ -62,6 +62,10 @@ The SQL Employee Tracker is a command-line application designed to manage a comp
 - Add a new department
 - View the total utilized budget of a department
 
+## Video
+
+[Screencast Video of Program](https://app.screencastify.com/v3/watch/l7dQQ6OILL2hq5f4z1ov)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
